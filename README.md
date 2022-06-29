@@ -11,7 +11,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 - VirtualBox
 - Boxfuse
 
-## Running
+### Running
 
 1. git clone https://github.com/boxfuse/boxfuse-sample-java-war-hello
 2. cd boxfuse-sample-java-war-hello
