@@ -8,7 +8,7 @@ pipeline {
                 git branch: 'master',
                 url: 'https://github.com/KuruvaSomaSekhar/boxfuse-sample-java-war-hello.git'
 
-            sh "ls -lat"
+            sh "ls -latr"
             }
           }
           stage("build stage") {
