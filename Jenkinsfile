@@ -11,7 +11,7 @@ pipeline {
             sh "ls -latr"
             }
           }
-          stage("build stage") {
+          stage("build stages") {
               steps {
                   println "This is build stage. Here we use mvn clean package command"
               }
